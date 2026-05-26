@@ -1,0 +1,2 @@
+# LorewalkerDiscordModeratorBot
+Discord
