@@ -1,4 +1,4 @@
-# Sanctum Steward — D&D 5e Discord Bot
+# LorewalkerDiscordModeratorBot — D&D 5e Discord Bot
 
 A fully automated D&D 5e campaign management bot for Discord. Run combat encounters, cast spells, manage inventory, track conditions, and level up — all through Discord commands.
 
